@@ -1,1 +1,6 @@
-Hola
+Reglamento de POPTEAM:
+	1. Cada uno de los integrantes tendra que subir sus respectivos documentos al repositorio.
+	
+	2. Cada comit realizado devera estar escrito con la siguiente estructura "NombreDocumento_Chido.Extencion" esta sera la manera de determinar que el documento ha sido terminado y esta listo para su respectivo uso.
+	
+	3. No se deveran realizar Comits de documentos Con la estructura anterior en caso de no ser revizados anteriormente con por el gerente de Calidad y el Lider.
